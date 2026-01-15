@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\nkullanicipanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\nkullanicipanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\\u0130kpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\\u0130kpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirkettakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\service\\performansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\service\\performansservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\service\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\service\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\service\\izinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\service\\izinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\ent\u0131ty\\performans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\ent\u0131ty\\performans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\ent\u0131ty\\izin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\ent\u0131ty\\izin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\dal\\personeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\dal\\personeldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\dal\\maasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\dal\\maasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\dal\\izindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\dal\\izindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\uc_personelguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\uc_personelguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\uc_personelekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\uc_personelekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\uc_izingor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\uc_izingor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\uc_izingir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\uc_izingir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\uc_departmanpersonelraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\uc_departmanpersonelraporu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\dal\\performansdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\dal\\performansdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|c:\\users\\\u00FCm\u0130tcan ayik\\desktop\\yeni klas\u00F6r\\sirkettakip\\sirkettakip\\service\\maasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}|sirketTakip\\sirketTakip.csproj|solutionrelative:sirkettakip\\service\\maasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerformansService.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\PerformansService.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Service\\PerformansService.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\PerformansService.cs",
+              "RelativeToolTip": "sirketTakip\\Service\\PerformansService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:03:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Form1.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Form1.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T15:40:40.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0130KPanelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\\u0130KPanelForm.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\\u0130KPanelForm.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\\u0130KPanelForm.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\\u0130KPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:02:56.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NKullaniciPanelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\NKullaniciPanelForm.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\NKullaniciPanelForm.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\NKullaniciPanelForm.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\NKullaniciPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:02:59.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonelService.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\PersonelService.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Service\\PersonelService.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\PersonelService.cs",
+              "RelativeToolTip": "sirketTakip\\Service\\PersonelService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:03:36.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminPanelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\AdminPanelForm.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\AdminPanelForm.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\AdminPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:02:52.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IzinService.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\IzinService.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Service\\IzinService.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\IzinService.cs",
+              "RelativeToolTip": "sirketTakip\\Service\\IzinService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:03:26.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Performans.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Ent\u0131ty\\Performans.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Ent\u0131ty\\Performans.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Ent\u0131ty\\Performans.cs",
+              "RelativeToolTip": "sirketTakip\\Ent\u0131ty\\Performans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:04:13.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Izin.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Ent\u0131ty\\Izin.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Ent\u0131ty\\Izin.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Ent\u0131ty\\Izin.cs",
+              "RelativeToolTip": "sirketTakip\\Ent\u0131ty\\Izin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:04:11.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "personelDao.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\personelDao.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Dal\\personelDao.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\personelDao.cs",
+              "RelativeToolTip": "sirketTakip\\Dal\\personelDao.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:02:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "maasDao.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\maasDao.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Dal\\maasDao.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\maasDao.cs",
+              "RelativeToolTip": "sirketTakip\\Dal\\maasDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:03:50.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IzinDao.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\IzinDao.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Dal\\IzinDao.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\IzinDao.cs",
+              "RelativeToolTip": "sirketTakip\\Dal\\IzinDao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:03:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\DbConnection.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Dal\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\DbConnection.cs",
+              "RelativeToolTip": "sirketTakip\\Dal\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:14:06.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_DepartmanPersonelRaporu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_DepartmanPersonelRaporu.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\UC_DepartmanPersonelRaporu.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_DepartmanPersonelRaporu.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\UC_DepartmanPersonelRaporu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:04:21.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_IzinGir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_IzinGir.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\UC_IzinGir.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_IzinGir.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\UC_IzinGir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:04:28.343Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_IzinGor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_IzinGor.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\UC_IzinGor.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_IzinGor.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\UC_IzinGor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:04:29.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_PersonelGuncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_PersonelGuncelle.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\UC_PersonelGuncelle.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_PersonelGuncelle.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\UC_PersonelGuncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:04:33.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_PersonelEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_PersonelEkle.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\UC_PersonelEkle.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\UC_PersonelEkle.cs [Design]",
+              "RelativeToolTip": "sirketTakip\\UC_PersonelEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:04:31.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "performansDao.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\performansDao.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Dal\\performansDao.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Dal\\performansDao.cs",
+              "RelativeToolTip": "sirketTakip\\Dal\\performansDao.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:03:54.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MaasService.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\MaasService.cs",
+              "RelativeDocumentMoniker": "sirketTakip\\Service\\MaasService.cs",
+              "ToolTip": "C:\\Users\\\u00DCM\u0130TCAN AYIK\\Desktop\\Yeni klas\u00F6r\\SirketTakip\\sirketTakip\\Service\\MaasService.cs",
+              "RelativeToolTip": "sirketTakip\\Service\\MaasService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:03:31.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

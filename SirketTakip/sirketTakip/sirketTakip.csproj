@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F371E287-73E7-4C9E-B0E7-3FBAA7EC223E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>sirketTakip</RootNamespace>
+    <AssemblyName>sirketTakip</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=9.5.0.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 9.5\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanelForm.Designer.cs">
+      <DependentUpon>AdminPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dal\DbConnection.cs" />
+    <Compile Include="Dal\IzinDao.cs" />
+    <Compile Include="Dal\maasDao.cs" />
+    <Compile Include="Dal\performansDao.cs" />
+    <Compile Include="Dal\personelDao.cs" />
+    <Compile Include="Dal\userDao.cs" />
+    <Compile Include="Entıty\BaseEntıty.cs" />
+    <Compile Include="Entıty\Departman.cs" />
+    <Compile Include="Entıty\Izin.cs" />
+    <Compile Include="Entıty\Performans.cs" />
+    <Compile Include="Entıty\Personel.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NKullaniciPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NKullaniciPanelForm.Designer.cs">
+      <DependentUpon>NKullaniciPanelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Service\IzinService.cs" />
+    <Compile Include="Service\MaasService.cs" />
+    <Compile Include="Service\PerformansService.cs" />
+    <Compile Include="Service\PersonelService.cs" />
+    <Compile Include="Service\UserService.cs" />
+    <Compile Include="UC_DepartmanPersonelRaporu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_DepartmanPersonelRaporu.Designer.cs">
+      <DependentUpon>UC_DepartmanPersonelRaporu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_IzinGir.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_IzinGir.Designer.cs">
+      <DependentUpon>UC_IzinGir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_IzinGor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_IzinGor.Designer.cs">
+      <DependentUpon>UC_IzinGor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_MaasRaporlari.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_MaasRaporlari.Designer.cs">
+      <DependentUpon>UC_MaasRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_PerformansPuanla.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_PerformansPuanla.Designer.cs">
+      <DependentUpon>UC_PerformansPuanla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_PerformansRaporlari.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_PerformansRaporlari.Designer.cs">
+      <DependentUpon>UC_PerformansRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_PersonelEkle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_PersonelEkle.Designer.cs">
+      <DependentUpon>UC_PersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_PersonelGuncelle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_PersonelGuncelle.Designer.cs">
+      <DependentUpon>UC_PersonelGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_PersonelList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_PersonelList.Designer.cs">
+      <DependentUpon>UC_PersonelList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_PersonelSil.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_PersonelSil.Designer.cs">
+      <DependentUpon>UC_PersonelSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_İzinTalepEt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_İzinTalepEt.Designer.cs">
+      <DependentUpon>UC_İzinTalepEt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İKPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İKPanelForm.Designer.cs">
+      <DependentUpon>İKPanelForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminPanelForm.resx">
+      <DependentUpon>AdminPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NKullaniciPanelForm.resx">
+      <DependentUpon>NKullaniciPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_DepartmanPersonelRaporu.resx">
+      <DependentUpon>UC_DepartmanPersonelRaporu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_IzinGir.resx">
+      <DependentUpon>UC_IzinGir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_IzinGor.resx">
+      <DependentUpon>UC_IzinGor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_MaasRaporlari.resx">
+      <DependentUpon>UC_MaasRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_PerformansPuanla.resx">
+      <DependentUpon>UC_PerformansPuanla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_PerformansRaporlari.resx">
+      <DependentUpon>UC_PerformansRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_PersonelEkle.resx">
+      <DependentUpon>UC_PersonelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_PersonelGuncelle.resx">
+      <DependentUpon>UC_PersonelGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_PersonelList.resx">
+      <DependentUpon>UC_PersonelList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_PersonelSil.resx">
+      <DependentUpon>UC_PersonelSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_İzinTalepEt.resx">
+      <DependentUpon>UC_İzinTalepEt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İKPanelForm.resx">
+      <DependentUpon>İKPanelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaplan2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kuğuu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kugu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kucuklogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cikis.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cikiss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aramaa.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
