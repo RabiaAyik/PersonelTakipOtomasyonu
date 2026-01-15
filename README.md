@@ -75,9 +75,7 @@ Her bir departmanda kaç kişi çalışıyor gösterir.<br/>
 - Sade bir arayüzle kullanıcıyı yapacağı işleme yönlendirmek.
 - Farklı raporlamalar yaparak yönetime bilgi sunmak
 # 📧 İletişim
-Herhangi bir soru için iletişim bilgileri:
-- **Ad**: Rabia
-- **Soyad**: Ayık
+Herhangi bir soru için iletişim bilgisi:
 - **E-posta**: rabiaayik089@gmail.com
 # 🎬 Youtube tanıtımı
 Youtube proje tanıtım videosu izlemek için [tıklayın](https://youtu.be/4rCcFxtojmw?si=NitYVDRL_mFci3Z-)
