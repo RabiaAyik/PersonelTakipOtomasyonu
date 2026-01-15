@@ -19,4 +19,6 @@
 *İnsan Kaynakları Ekranı*
 ![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/7a23da2cb36075fd09e867371ee8e778c576861f/insanKaynaklar%C4%B1Ekran%C4%B1.PNG)
 *Normal Kullanıcı Ekranı*
+![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/d50d1ba117c475d5e077fe5200b3142e092e0061/NormalKullan%C4%B1c%C4%B1Ekran%C4%B1.PNG)
+*Yönetici Ekranı*
 ![image alt]()
