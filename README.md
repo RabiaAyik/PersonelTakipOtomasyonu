@@ -2,7 +2,7 @@
 Şirket takip işlerini kolaylaştıran bir masaüstü uygulamasıdır.Bu proje şirketteki çalışanların izin talebi oluşturmasını,insan kaynaklarının personellere puan vermesini ,izin onaylayıp reddetmesini yöneticinin ise raporları görmesini sağlar.
 # 📌 Proje Özellikleri
 - **Giriş,Yönetici,İK ve Normal Kullanıcı Panelleri**: Kullanıcı doğrulaması ve işlevleri.
-- **Personel Ekleme,Silme**: İnsan Kaynakları çalışan kaydeder. 
+- **Personel Ekleme,Silme**: İnsan Kaynakları çalışanı kaydeder. 
 - **İzin talebi**: Onaylanır veya reddedilirse kullanıcı ekranına gelir.
 - **Maaş Raporları**: Departmandaki personellerin ortalama,toplam,en yüksek,en düşük maaşını getirir.
 - **Performans Raporları**: En yüksek,en düşük performanslı personeli getirir.
@@ -11,8 +11,14 @@
 - **C#**: (.NET Framework)
 - **Windows Forms**:Masaüstü uygulama tasarımı
 - **MySQL**: Veritabanı
-- **Entity Layer**: Katmanlı mimari (DAL, BLL)
+- **Layer**: Katmanlı mimari (DAL, Service, Entity)
 - **Responsive Tasarım**: Sade,şık ve kullanıcı dostu arayüz.
+# ⛓ Proje Yapısı
+- **DAL (Data Access Layer)**: Veritabanı işlemleri.
+- **SERVİCE Layer**: İş mantığı.
+- **UI (User Interface)**: Windows Forms kullanıcı arayüzü.
+- **MySQL**: Veritabanı bağlantı ve sorguları.
+
 # 📷 Ekran Görüntüleri
 ## *Giriş Ekranı*
 ![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/91e3d4ab32f7c1c7b85321405704cb9da4bbc400/GirisEkran%C4%B1.PNG)
@@ -51,5 +57,30 @@ Kullanıcı belirli şartlar altında izin ister.<br/>
 Kullanıcı kendi beklemede olan veya geçmiş reddedilmiş,onaylanmış izinlerini görür. 
 ## *Yönetici Ekranı*
 ![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/9a521996df9c6a9fc14224451b675117ed97b346/YoneticiEkran%C4%B1.PNG)
-Bu ekranda yapılacak işlemler şöyledir:<br/>
+Bu ekranda yapılacak işlemler izin onaylama ve personelleri görmenin yanı sıra şöyledir:<br/>
+
+*Maas Raporları*
+![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/23716734dbd2c1b710d44f681e8b568f70a080a0/MaasRapor.PNG)
+Her bir departmanın toplam-ortalama maaş yükünü,en yüksek ve en düşük maaş alan personelleri gösterir.<br/>
+
+*Performans Raporu*
+![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/23716734dbd2c1b710d44f681e8b568f70a080a0/PerformansRaporu.PNG)
+Yıllara göre yüksekten düşüğe ,düşükten yükseğe puan grafiği.<br/>
+
+*Departman Raporu*
+![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/23716734dbd2c1b710d44f681e8b568f70a080a0/DepRapor.PNG)
+Her bir departmanda kaç kişi çalışıyor gösterir.<br/>
+# 🎯 Proje Hedefleri
+- Şirketin yapacağı işlemleri dijitalleştirip kolaylaştırmak.
+- Sade bir arayüzle kullanıcıyı yapacağı işleme yönlendirmek.
+- Farklı raporlamalar yaparak yönetime bilgi sunmak
+# 📧 İletişim
+Herhangi bir soru için iletişim bilgileri:
+- **Ad**: Rabia
+- **Soyad**: Ayık
+- **E-posta**: rabiaayik089@gmail.com
+# 🎬 Youtube tanıtımı
+Youtube proje tanıtım videosu izlemek için [tıklayın](https://youtu.be/4rCcFxtojmw?si=NitYVDRL_mFci3Z-)
+
+
 
