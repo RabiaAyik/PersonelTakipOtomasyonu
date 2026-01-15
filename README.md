@@ -28,6 +28,10 @@ Bu ekranda kullanıcı adı ve şifresini giren kişinin rolüne göre aşağıd
 ![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/7a23da2cb36075fd09e867371ee8e778c576861f/insanKaynaklar%C4%B1Ekran%C4%B1.PNG)
 Bu ekranda yapılacak işlemler şöyledir:<br/>
 
+*Personel Silme*
+![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/23acdeeffa001723f5717386fb1380bd4d04c76f/PersonelSil.PNG) 
+Seçili personel artık çalışmıyordur.<br/>
+
 *Personel Ekleme*
 ![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/405f89a521e536b083836a5aec2733274872b87d/PersonelEkleme.PNG)
 Yeni personel kaydı yapılır.<br/>
