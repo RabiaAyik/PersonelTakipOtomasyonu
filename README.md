@@ -17,4 +17,6 @@
 *Giriş Ekranı*
 ![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/91e3d4ab32f7c1c7b85321405704cb9da4bbc400/GirisEkran%C4%B1.PNG)
 *İnsan Kaynakları Ekranı*
+![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/7a23da2cb36075fd09e867371ee8e778c576861f/insanKaynaklar%C4%B1Ekran%C4%B1.PNG)
+*Normal Kullanıcı Ekranı*
 ![image alt]()
