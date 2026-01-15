@@ -14,3 +14,4 @@
 - **Entity Layer**: Katmanlı mimari (DAL, BLL)
 - **Responsive Tasarım**: Modern ve kullanıcı dostu arayüz.
 # 📷 Ekran Görüntüleri
+![image alt](https://github.com/RabiaAyik/PersonelTakipOtomasyonu/blob/91e3d4ab32f7c1c7b85321405704cb9da4bbc400/GirisEkran%C4%B1.PNG)
